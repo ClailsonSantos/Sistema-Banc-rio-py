@@ -34,5 +34,6 @@ Contribuições são bem-vindas! Se você quiser melhorar este sistema bancário
 
 ## Autor
 
-Este sistema bancário em Python foi desenvolvido por [Clailson dos Santos](https://github.com/ClailsonSantos).
-Este sistema foi desenvolvido gravado e desenvolvido em tempo real no canal [DevXunxas](https://www.youtube.com/@DevXunxas)
+- Este sistema bancário em Python foi desenvolvido por [Clailson dos Santos](https://github.com/ClailsonSantos).
+
+- Este sistema foi desenvolvido gravado e desenvolvido em tempo real no canal [DevXunxas](https://www.youtube.com/@DevXunxas)
