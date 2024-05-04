@@ -8,7 +8,7 @@
 
 menu = """
 -=-=-=-=-=-= SEJA BEM VINDO AO SISTEMA BANCÁRIO D.I.O =-=-=-=-=-=-
-              Insira a operação que deseja realizar!
+              Insira a operação que deseja realizar!!
     [D] - DEPÓSITO
     [S] - SAQUE
     [E] - EXTRATO
